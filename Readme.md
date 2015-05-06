@@ -11,9 +11,11 @@ This is a super simple scaffold for front-end projects. It contains gulp-tasks f
 #Installation
 ```
 npm install
+```
 
 #Usage
 If your workflow (folder names/locations etc) is different, just edit the DIR object in the gulp-file to match whatever you want then run
 
 ```
 gulp
+```
