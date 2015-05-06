@@ -1,0 +1,19 @@
+{
+	"author" : {
+		"name" : "Damoon Rashidi",
+		"url" : "http://www.sfzombie.net",
+		"email" : "damoon.rashidi@gmail.com"
+	},
+	"version" : "1.0.0",
+	"dependencies" : {
+		"coffee-script" : "latest",
+		"gulp" : "latest",
+		"gulp-ruby-sass" : "latest",
+		"gulp-coffee" : "latest",
+		"gulp-concat" : "latest",
+		"gulp-chmod" : "latest",
+		"gulp-autoprefixer" : "latest",
+		"gulp-imagemin" : "latest",
+		"gulp-minify-html" : "latest"
+	}
+}
