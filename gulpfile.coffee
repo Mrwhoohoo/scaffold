@@ -33,7 +33,7 @@ gulp.task 'sass', ->
 
 gulp.task 'coffee', ->
 	#your own coffeescript files
-	gulp.src 'src/assets/coffee/app.coffee'
+	gulp.src DIR.JS.IN
 		.pipe coffee bare: true
 		.pipe concat "app.js"
 		.pipe gulp.dest DIR.JS.OUT
